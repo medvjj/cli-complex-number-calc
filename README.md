@@ -119,7 +119,7 @@ gnuplot --version
 ## Running
 
 ```bash
-https://github.com/medvjj/cli-complex-number-calc.git
+git clone https://github.com/medvjj/cli-complex-number-calc.git
 cd cli-complex-number-calc
 
 chmod +x complex.scm complex_plot.scm
