@@ -119,8 +119,8 @@ gnuplot --version
 ## Running
 
 ```bash
-git clone https://github.com/<your-handle>/complex-number-lab.git
-cd complex-number-lab
+https://github.com/medvjj/cli-complex-number-calc.git
+cd cli-complex-number-calc
 
 chmod +x complex.scm complex_plot.scm
 
